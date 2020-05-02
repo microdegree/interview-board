@@ -45,3 +45,19 @@ localhost:3000
 ## Frontend Class Flow Diagram : 
 
 https://drive.google.com/file/d/1vTQHN9eqj_5S84_7qu16eGsvrItuRA--/view?usp=sharing
+
+
+## Integrating Web conf references : 
+
+https://www.youtube.com/watch?v=hw89Up0_vOo
+
+
+https://github.com/jitsi/jitsi-meet
+
+https://scotch.io/tutorials/build-a-video-chat-service-with-javascript-webrtc-and-okta
+
+https://github.com/rdegges/chatapp
+
+https://github.com/jitsi/jitsi-meet
+
+
