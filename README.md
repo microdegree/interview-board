@@ -60,4 +60,7 @@ https://github.com/rdegges/chatapp
 
 https://github.com/jitsi/jitsi-meet
 
++
+https://github.com/jitsi/lib-jitsi-meet/blob/master/doc/API.md#installation
+
 
